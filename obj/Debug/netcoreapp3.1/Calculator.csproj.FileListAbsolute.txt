@@ -1,0 +1,13 @@
+/home/daniloopinheiro/Documents/Projects/Calculator/obj/Debug/netcoreapp3.1/Calculator.csprojAssemblyReference.cache
+/home/daniloopinheiro/Documents/Projects/Calculator/obj/Debug/netcoreapp3.1/Calculator.AssemblyInfoInputs.cache
+/home/daniloopinheiro/Documents/Projects/Calculator/obj/Debug/netcoreapp3.1/Calculator.AssemblyInfo.cs
+/home/daniloopinheiro/Documents/Projects/Calculator/obj/Debug/netcoreapp3.1/Calculator.csproj.CoreCompileInputs.cache
+/home/daniloopinheiro/Documents/Projects/Calculator/bin/Debug/netcoreapp3.1/Calculator
+/home/daniloopinheiro/Documents/Projects/Calculator/bin/Debug/netcoreapp3.1/Calculator.deps.json
+/home/daniloopinheiro/Documents/Projects/Calculator/bin/Debug/netcoreapp3.1/Calculator.runtimeconfig.json
+/home/daniloopinheiro/Documents/Projects/Calculator/bin/Debug/netcoreapp3.1/Calculator.runtimeconfig.dev.json
+/home/daniloopinheiro/Documents/Projects/Calculator/bin/Debug/netcoreapp3.1/Calculator.dll
+/home/daniloopinheiro/Documents/Projects/Calculator/bin/Debug/netcoreapp3.1/Calculator.pdb
+/home/daniloopinheiro/Documents/Projects/Calculator/obj/Debug/netcoreapp3.1/Calculator.dll
+/home/daniloopinheiro/Documents/Projects/Calculator/obj/Debug/netcoreapp3.1/Calculator.pdb
+/home/daniloopinheiro/Documents/Projects/Calculator/obj/Debug/netcoreapp3.1/Calculator.genruntimeconfig.cache
