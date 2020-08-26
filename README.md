@@ -5,6 +5,8 @@
 
 		Using the project via console, with solid bases in csharp.
 
+### CRIAÇÃO DE UMA CALCULADORA VIA CONSOLE
+
 # Fundamentos em CSHARP
 
 * Aprenda ou consolide todo o conhecimento necessário para trabalhar com C # e .NET!
@@ -12,6 +14,4 @@
 
         Utilizando o projeto via console, com bases sólidas em csharp.
 
-## CRIAÇÃO DE UMA CALCULADORA VIA CONSOLE
-
-## CREATION OF A CALCULATOR VIA CONSOLE
+### CREATION OF A CALCULATOR VIA CONSOLE
