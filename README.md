@@ -5,7 +5,7 @@
 
 		Using the project via console, with solid bases in csharp.
 
-### CRIAÇÃO DE UMA CALCULADORA VIA CONSOLE
+### CREATION OF A CALCULATOR VIA CONSOLE
 
 # Fundamentos em CSHARP
 
@@ -14,4 +14,4 @@
 
         Utilizando o projeto via console, com bases sólidas em csharp.
 
-### CREATION OF A CALCULATOR VIA CONSOLE
+### CRIAÇÃO DE UMA CALCULADORA VIA CONSOLE
